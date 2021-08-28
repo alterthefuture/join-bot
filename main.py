@@ -70,4 +70,4 @@ async def disconnect(ctx):
             else:
                 return await ctx.send("Someone else is already listening to music in a different channel.")
 
-bot.run("ODcyNzEyODU3NDE3MDUyMTgw.YQt3Lw.t7puv5HvNA4AeawxW7wWhpe3lBk")
+bot.run("token-here)
